@@ -43,7 +43,7 @@ Predicted variant effects are not proof of pathogenicity or clinical significanc
 ## Data and Reproducibility
 
 The analysis was performed using Galaxy Europe in a web browser. Large sequencing and annotated VCF files are not included in this repository.
-
+The SnpEff CSV statistics report is included in the `results` folder. The full HTML statistics report and annotated VCF are retained in Galaxy because of their file sizes.
 ## Author
 
 MSc Biotechnology graduate | Bioinformatics and Genomics Portfolio Project
