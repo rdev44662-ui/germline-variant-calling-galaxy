@@ -44,6 +44,17 @@ Predicted variant effects are not proof of pathogenicity or clinical significanc
 
 The analysis was performed using Galaxy Europe in a web browser. Large sequencing and annotated VCF files are not included in this repository.
 The SnpEff CSV statistics report is included in the `results` folder. The full HTML statistics report and annotated VCF are retained in Galaxy because of their file sizes.
+## View Project Results
+
+- [Browse all results](results/)
+- [View detailed results and limitations](results/project-results.md)
+- [View SnpEff CSV statistics](results/)
+
+The SnpEff HTML statistics report and annotated VCF are retained in Galaxy because of their size. The CSV statistics are provided for review and reproducibility.
+
+## Interpretation Note
+
+SnpEff predicts potential effects of genetic variants. These predictions alone do not establish pathogenicity or clinical significance.
 ## Author
 
 MSc Biotechnology graduate | Bioinformatics and Genomics Portfolio Project
