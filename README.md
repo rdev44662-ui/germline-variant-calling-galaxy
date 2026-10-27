@@ -51,7 +51,13 @@ The SnpEff CSV statistics report is included in the `results` folder. The full H
 - [View SnpEff CSV statistics](results/)
 
 The SnpEff HTML statistics report and annotated VCF are retained in Galaxy because of their size. The CSV statistics are provided for review and reproducibility.
+## Interactive Results
 
+- [**View SnpEff HTML Annotation Report**](https://rdev44662-ui.github.io/germline-variant-calling-galaxy/results/SnpEff_eff__on_dataset_44_-_HTML_stats_html.html)
+- [Browse CSV Statistics and Other Results](results/)
+- [View Detailed Results and Limitations](results/project-results.md)
+
+The SnpEff report summarizes predicted variant effects and annotation statistics. These predictions require further review and do not independently establish clinical significance.
 ## Interpretation Note
 
 SnpEff predicts potential effects of genetic variants. These predictions alone do not establish pathogenicity or clinical significance.
