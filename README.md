@@ -43,7 +43,7 @@ Predicted variant effects are not proof of pathogenicity or clinical significanc
 ## Data and Reproducibility
 
 The analysis was performed using Galaxy Europe in a web browser. Large sequencing and annotated VCF files are not included in this repository.
-The SnpEff CSV statistics report is included in the `results` folder. The full HTML statistics report and annotated VCF are retained in Galaxy because of their file sizes.
+The SnpEff CSV statistics report is included in the `results` folder, and the HTML statistics report is published through GitHub Pages. The annotated VCF is retained in Galaxy because of its file size.
 ## View Project Results
 
 - [**Open SnpEff HTML Annotation Report**](https://rdev44662-ui.github.io/germline-variant-calling-galaxy/results/SnpEff_eff__on_dataset_44_-_HTML_stats_html.html)
@@ -51,14 +51,7 @@ The SnpEff CSV statistics report is included in the `results` folder. The full H
 - [View Detailed Results and Limitations](https://github.com/rdev44662-ui/germline-variant-calling-galaxy/blob/main/results/project-results.md)
 - [View Exported Galaxy Workflow](https://github.com/rdev44662-ui/germline-variant-calling-galaxy/blob/main/results/Galaxy-Workflow-Germline_Variant_Calling.ga)
 
-The SnpEff HTML statistics report and annotated VCF are retained in Galaxy because of their size. The CSV statistics are provided for review and reproducibility.
-## Interactive Results
-
-- [**View SnpEff HTML Annotation Report**](https://rdev44662-ui.github.io/germline-variant-calling-galaxy/results/SnpEff_eff__on_dataset_44_-_HTML_stats_html.html)
-- [Browse CSV Statistics and Other Results](results/)
-- [View Detailed Results and Limitations](results/project-results.md)
-
-The SnpEff report summarizes predicted variant effects and annotation statistics. These predictions require further review and do not independently establish clinical significance.
+The SnpEff HTML statistics report is available through GitHub Pages, while the CSV statistics are available in the repository for review and reproducibility. The annotated VCF is retained in Galaxy because of its file size.
 ## Interpretation Note
 
 SnpEff predicts potential effects of genetic variants. These predictions alone do not establish pathogenicity or clinical significance.
