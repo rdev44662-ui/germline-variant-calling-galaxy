@@ -46,9 +46,10 @@ The analysis was performed using Galaxy Europe in a web browser. Large sequencin
 The SnpEff CSV statistics report is included in the `results` folder. The full HTML statistics report and annotated VCF are retained in Galaxy because of their file sizes.
 ## View Project Results
 
-- [Browse all results](results/)
-- [View detailed results and limitations](results/project-results.md)
-- [View SnpEff CSV statistics](results/)
+- [**Open SnpEff HTML Annotation Report**](https://rdev44662-ui.github.io/germline-variant-calling-galaxy/results/SnpEff_eff__on_dataset_44_-_HTML_stats_html.html)
+- [Browse CSV Statistics and Other Results](https://github.com/rdev44662-ui/germline-variant-calling-galaxy/tree/main/results)
+- [View Detailed Results and Limitations](https://github.com/rdev44662-ui/germline-variant-calling-galaxy/blob/main/results/project-results.md)
+- [View Exported Galaxy Workflow](https://github.com/rdev44662-ui/germline-variant-calling-galaxy/blob/main/results/Galaxy-Workflow-Germline_Variant_Calling.ga)
 
 The SnpEff HTML statistics report and annotated VCF are retained in Galaxy because of their size. The CSV statistics are provided for review and reproducibility.
 ## Interactive Results
