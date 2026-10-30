@@ -35,6 +35,7 @@ These figures are taken from the Galaxy outputs and SnpEff report. The reported 
 - `README.md` — project overview and key results
 - `results/project-results.md` — detailed results and limitations
 - Galaxy `.ga` workflow file — exported workflow structure
+- `results/high-impact-variant-interpretation.md` — detailed review of selected HIGH-impact variants
 
 ## Limitations
 
