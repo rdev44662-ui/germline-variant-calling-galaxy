@@ -52,6 +52,11 @@ The SnpEff CSV statistics report is included in the `results` folder, and the HT
 - [View Exported Galaxy Workflow](https://github.com/rdev44662-ui/germline-variant-calling-galaxy/blob/main/results/Galaxy-Workflow-Germline_Variant_Calling.ga)
 
 The SnpEff HTML statistics report is available through GitHub Pages, while the CSV statistics are available in the repository for review and reproducibility. The annotated VCF is retained in Galaxy because of its file size.
+## HIGH-Impact Variant Interpretation
+
+The germline variant-calling workflow was followed by SnpEff annotation, VCF filtering, and HIGH-impact variant extraction using SnpSift.
+
+**Detailed report:** [View HIGH-impact Variant Interpretation](results/high-impact-variant-interpretation.md)
 ## Interpretation Note
 
 SnpEff predicts potential effects of genetic variants. These predictions alone do not establish pathogenicity or clinical significance.
